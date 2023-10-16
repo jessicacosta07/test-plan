@@ -35,7 +35,26 @@ A test plan should define:
 
 4. Criteria to evaluate the results obtained: metrics must be defined to monitor the results achieved.
 
+Different Types of Software Testing:
+
+1. Unit Tests
+
+2. Integration Tests
+
+3. Functional tests
+
+4. End-to-end testing
+
+5. Acceptance Tests
+
+6. Performance Tests
+
+7. Smoke test
+
 
 References:
 https://www.devmedia.com.br/plano-de-teste-um-mapa-essencial-para-teste-de-software/13824
+
 https://www.ibm.com/docs/pt-br/engineering-lifecycle-management-suite/lifecycle-management/6.0.6.1?topic=plan-introduction-develop-test
+
+https://www.atlassian.com/br/continuous-delivery/software-testing/types-of-software-testing
