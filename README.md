@@ -2,6 +2,8 @@
 
 ## Bootcamp WEX - Desenvolvimento .NET e QA
 
-## Skills
-![C#](https://img.shields.io/badge/c%23-%5C2D91.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+## Test Plans
+
+The test plan describes the scope of the overall testing effort and provides a record of the test planning process. The test plan can be configured to meet your team's needs
+
+
