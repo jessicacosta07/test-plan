@@ -4,7 +4,7 @@
 
 ## Test Plans
 
-The test plan describes the scope of the overall testing effort and provides a record of the test planning process. The test plan can be configured to meet your team's needs. A test plan identifies requirements, risks, test cases, test environments to be tested, business and quality objectives, test plans, and other items.
+The test plan describes the scope of the overall testing effort and provides a record of the test planning process. A test plan identifies requirements, risks, test cases, test environments to be tested, business and quality objectives, test plans, and other items.
 
 It is worth mentioning that testing should not be the last activity in the software development process. It occurs throughout the process, as exemplified in the RUP (Rational Unified Process) process overview.
 
