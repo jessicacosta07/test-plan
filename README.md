@@ -1,4 +1,4 @@
-# Test practice
+# Test plan
 
 ## Bootcamp WEX - Desenvolvimento .NET e QA
 
