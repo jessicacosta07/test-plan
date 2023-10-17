@@ -53,6 +53,7 @@ Different Types of Software Testing:
 
 
 References:
+
 https://www.devmedia.com.br/plano-de-teste-um-mapa-essencial-para-teste-de-software/13824
 
 https://www.ibm.com/docs/pt-br/engineering-lifecycle-management-suite/lifecycle-management/6.0.6.1?topic=plan-introduction-develop-test
